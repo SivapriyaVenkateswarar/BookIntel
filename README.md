@@ -5,7 +5,7 @@ BookIntel <br>
 │ ├── sample_data.csv <br>
 <br>
 ├── 📂 notebooks/ # Jupyter notebooks for exploration & modeling <br>
-│ ├── exploration.ipynb <br>
+│ ├── EDA.ipynb <br>
 │ ├── training.ipynb <br>
 <br>
 ├── 📂 src/ # Core scripts <br>
