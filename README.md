@@ -1,26 +1,9 @@
 # BookIntel
 
-narrativeqa_project/
-│
-├── 📂 data/                  # Data-related files (small samples, processed data)
-│   ├── sample_data.csv
-│
-├── 📂 notebooks/             # Jupyter notebooks for exploration & modeling
-│   ├── exploration.ipynb
-│   ├── training.ipynb
-│
-├── 📂 src/                   # Core scripts for the project
-│   ├── data_processing.py    # Preprocessing scripts
-│   ├── train_model.py        # Training script
-│   ├── infer.py              # Inference script
-│
-├── 📂 models/                # Saved model files (if any)
-│   ├── model.pth
-│
-├── 📂 tests/                 # Unit tests for scripts (bonus points!)
-│   ├── test_data_processing.py
-│   ├── test_model.py
-│
-├── .gitignore                # Ignore unnecessary files (like datasets or model checkpoints)
-├── README.md                 # Overview of your project (what it does, how to run it)
-├── requirements.txt          # Dependencies (e.g., datasets, transformers, torch)
+narrativeqa_project/ ├── 📂 data/ # Data files (samples, processed) │ ├── sample_data.csv
+│ ├── 📂 notebooks/ # Jupyter notebooks for exploration & modeling │ ├── exploration.ipynb
+│ ├── training.ipynb
+│ ├── 📂 src/ # Core scripts │ ├── data_processing.py # Preprocessing logic │ ├── train_model.py # Model training │ ├── infer.py # Inference script │ ├── 📂 models/ # Saved models (if any) │ ├── model.pth
+│ ├── 📂 tests/ # Unit tests │ ├── test_data_processing.py
+│ ├── test_model.py
+│ ├── 📜 .gitignore # Ignore unnecessary files ├── 📜 README.md # Project overview ├── 📜 requirements.txt # Dependencies list
