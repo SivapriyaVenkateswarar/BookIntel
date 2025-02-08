@@ -9,8 +9,8 @@ BookIntel <br>
 ├── 📂 src/ # Core scripts <br>
 │ ├── data_processing.py # Preprocessing logic <br>
 │ ├── train_model.py # Model training <br>
-| | ├── 📂 models #different models <br>
-│ | | ├── model.pth <br>
+|  | ├── 📂 models #different models <br>
+│  |  | ├── model.pth <br>
 │ ├── infer.py # Inference script <br>
 <br>
 ├── 📂 tests/ # Unit tests <br>
