@@ -2,6 +2,7 @@
 
 📂 narrativeqa_project/
 │
+
 ├── 📂 data/                  # Data-related files (small samples, processed data)
 │   ├── sample_data.csv
 │
