@@ -1,12 +1,10 @@
 # BookIntel
 
 BookIntel <br>
-├── 📂 data/ # Data files (samples, processed) <br>
-│ ├── sample_data.csv <br>
 <br>
-├── 📂 notebooks/ # Jupyter notebooks for exploration & modeling <br>
+├── 📂 Data collection and Analysis/ # Jupyter notebooks for exploration & modeling <br>
 │ ├── EDA.ipynb <br>
-│ ├── training.ipynb <br>
+│ ├── data_collection.ipynb <br>
 <br>
 ├── 📂 src/ # Core scripts <br>
 │ ├── data_processing.py # Preprocessing logic <br>
