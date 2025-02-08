@@ -1,6 +1,6 @@
 # BookIntel
 
-narrativeqa_project/ 
+narrativeqa_project/ <br>
 ├── 📂 data/ # Data files (samples, processed) 
 │ ├── sample_data.csv
 │ ├── 📂 notebooks/ # Jupyter notebooks for exploration & modeling │ ├── exploration.ipynb
