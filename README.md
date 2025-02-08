@@ -20,5 +20,5 @@ BookIntel <br>
 │ ├── test_data_processing.py <br>
 │ ├── test_model.py <br>
 <br>
-├── 📜 README.md # Project overview 
+├── 📜 README.md # Project overview <br>
 ├── 📜 requirements.txt # Dependencies list
