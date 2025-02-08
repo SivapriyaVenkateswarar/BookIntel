@@ -1,8 +1,7 @@
 # BookIntel
 
-📂 narrativeqa_project/
+narrativeqa_project/
 │
-
 ├── 📂 data/                  # Data-related files (small samples, processed data)
 │   ├── sample_data.csv
 │
@@ -15,10 +14,13 @@
 │   ├── train_model.py        # Training script
 │   ├── infer.py              # Inference script
 │
+├── 📂 models/                # Saved model files (if any)
+│   ├── model.pth
+│
 ├── 📂 tests/                 # Unit tests for scripts (bonus points!)
 │   ├── test_data_processing.py
 │   ├── test_model.py
 │
 ├── .gitignore                # Ignore unnecessary files (like datasets or model checkpoints)
 ├── README.md                 # Overview of your project (what it does, how to run it)
-├── requirements
+├── requirements.txt          # Dependencies (e.g., datasets, transformers, torch)
