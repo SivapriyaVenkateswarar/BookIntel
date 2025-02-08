@@ -1,6 +1,8 @@
 # BookIntel
 
-narrativeqa_project/ ├── 📂 data/ # Data files (samples, processed) │ ├── sample_data.csv
+narrativeqa_project/ 
+├── 📂 data/ # Data files (samples, processed) 
+│ ├── sample_data.csv
 │ ├── 📂 notebooks/ # Jupyter notebooks for exploration & modeling │ ├── exploration.ipynb
 │ ├── training.ipynb
 │ ├── 📂 src/ # Core scripts │ ├── data_processing.py # Preprocessing logic │ ├── train_model.py # Model training │ ├── infer.py # Inference script │ ├── 📂 models/ # Saved models (if any) │ ├── model.pth
