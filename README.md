@@ -7,11 +7,11 @@ BookIntel <br>
 │ ├── data_collection.ipynb <br>
 <br>
 ├── 📂 src/ # Core scripts <br>
-│ ├── data_processing.py # Preprocessing logic <br>
+│ ├── data_processing.ipynb # Preprocessing logic <br>
 │ ├── train_model.py # Model training <br>
-|  | ├── 📂 models #different models <br>
-│  |  | ├── model.pth <br>
-│ ├── infer.py # Inference script <br>
+|   ├── 📂 models #different models <br>
+│      ├── model.ipynb <br>
+│ ├── infer.ipynb # Inference script <br>
 <br>
 ├── 📂 tests/ # Unit tests <br>
 │ ├── test_data_processing.py <br>
