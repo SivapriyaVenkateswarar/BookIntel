@@ -6,7 +6,7 @@ BookIntel <br>
 │ ├── EDA.ipynb <br>
 │ ├── data_collection.ipynb <br>
 <br>
-├── 📂 src/ # Core scripts <br>
+├── 📂 main / # Core scripts <br>
 │ ├── data_processing.ipynb # Preprocessing logic <br>
 │ ├── train_model.py # Model training <br>
 |   ├── 📂 models #different models <br>
